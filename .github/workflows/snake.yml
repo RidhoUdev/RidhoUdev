@@ -1,0 +1,49 @@
+name: Generate Snake Animation
+
+on:
+  # Jalankan secara otomatis setiap 12 jam
+  schedule:
+    - cron: "0 */12 * * *"
+  # Memungkinkan menjalankan workflow ini secara manual dari tab Actions
+  workflow_dispatch:
+
+jobs:
+  build:
+    name: Generate Contribution Snake
+    runs-on: ubuntu-latest
+    steps:
+      # Langkah ini tidak diperlukan jika Action snk dan push berjalan di konteks repo yang sama
+      # dan tidak perlu checkout file spesifik dari repo untuk Action itu sendiri.
+      # Namun, untuk ghaction-github-pages, checkout mungkin diperlukan untuk konteks git.
+      - name: Checkout repository
+        uses: actions/checkout@v4 # Menggunakan versi terbaru
+
+      - name: Generate Snake Animation
+        uses: Platane/snk@v3
+        with:
+          # Username GitHub-mu. Otomatis mengambil username pemilik repo.
+          github_user_name: ${{ github.repository_owner }}
+          
+          # Daftar file output yang akan di-generate.
+          # Kamu bisa memilih salah satu atau beberapa.
+          # SVG standar untuk mode terang dan gelap direkomendasikan.
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+            # Contoh jika ingin output GIF dengan warna custom (opsional):
+            # dist/ocean.gif?color_snake=orange&color_dots=#BFD6F6,#8DBDFE,#64A1F4,#4B91F1,#3C7DD9
+        env:
+          # Token ini diperlukan agar Action bisa mengakses data kontribusimu
+          # dan mendorong perubahan ke branch 'output'.
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Push generated animation to output branch
+        uses: crazy-max/ghaction-github-pages@v4 # Menggunakan versi terbaru
+        with:
+          # Nama branch tempat menyimpan hasil generate (SVG/GIF)
+          target_branch: output
+          # Folder tempat file hasil generate disimpan oleh Platane/snk
+          build_dir: dist
+        env:
+          # Token ini diperlukan untuk mendorong (push) ke branch 'output'
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
