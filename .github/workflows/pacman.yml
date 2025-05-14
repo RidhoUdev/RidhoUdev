@@ -1,0 +1,28 @@
+name: Generate Pacman Contribution Graph
+
+on:
+  schedule:
+    - cron: "0 */24 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    name: Generate Pacman SVG
+    permissions:
+      contents: write 
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Generate pacman-contribution-graph.svg
+        uses: abozanona/pacman-contribution-graph@main
+        with:
+          github_user_name: ${{ github.repository_owner }}
+
+      - name: Push generated SVG to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output 
+          build_dir: . 
+                      
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
