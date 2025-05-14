@@ -21,6 +21,7 @@
 
 ### CONNECT WITH ME:
 <p align="center">
+  <a href="#" target="_blank" rel="noopener noreferrer"><img src="" alt="Instagram dho._21" height="40" width="40" /></a>
   <a href="https://instagram.com/dho._21" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram dho._21" height="40" width="40" /></a>
   </p>
 
@@ -44,9 +45,8 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ridhoudev/ridhoudev/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ridhoudev/ridhoudev/output/github-snake.svg">
-    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/ridhoudev/ridhoudev/output/github-snake.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ridhoudev/ridhoudev/output/dist/pacman-contribution-graph-dark.svg">
+    <img alt="github contribution pacman animation" src="https://raw.githubusercontent.com/ridhoudev/ridhoudev/output/dist/pacman-contribution-graph-dark.svg">
   </picture>
 </div>
 
