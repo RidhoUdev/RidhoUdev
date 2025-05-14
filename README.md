@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Ridho</h1>
-<h3 align="center">A passionate Full Stack Web Developer and a student at State Vocational High School 4 Tangerang.</h3>
+<h3 align="center">A student at State Vocational High School 4 Tangerang.</h3>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=ridhoudev&label=Profile%20Views&color=0e75b6&style=flat-square">
