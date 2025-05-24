@@ -18,10 +18,14 @@
 - ⚡ Fun fact: I love exploring new technologies and enjoy a good cup of coffee while coding!
 
 ---
+<img src="https://raw.githubusercontent.com/ridhoudev/ridhoudev/main/img/tokito.gif" style="width: 100vw; height: 150;">
+
+---
 
 ### CONNECT WITH ME:
 <p align="center">
   <a href="https://instagram.com/dho._21" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram dho._21" height="40" width="40" /></a>
+  <a href="#" target="_blank" rel="noopener noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="Instagram dho._21" height="40" width="40" /></a>
   </p>
 
 ---
