@@ -18,7 +18,7 @@
 - ⚡ Fun fact: I love exploring new technologies and enjoy a good cup of coffee while coding!
 
 ---
-<img src="https://raw.githubusercontent.com/ridhoudev/ridhoudev/main/img/tokito.gif" style="width: 100vw; height: 400px;">
+<img src="img/tokito.gif">
 
 ---
 
