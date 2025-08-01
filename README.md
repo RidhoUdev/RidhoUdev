@@ -1,83 +1,129 @@
-<h1 align="center">Hi 👋, I'm Muhammad Ridho</h1>
-<h3 align="center">A student at State Vocational High School 4 Tangerang.</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Muhammad+Ridho;Full+Stack+Developer;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
+</div>
 
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=ridhoudev&label=Profile%20Views&color=0e75b6&style=flat-square">
-    <img src="https://komarev.com/ghpvc/?username=ridhoudev&label=Profile%20Views&color=0e75b6&style=flat-square" alt="ridhoudev profile views" />
+<h3 align="center">🎓 A passionate student at State Vocational High School 4 Tangerang</h3>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ridhoudev&label=Profile%20Views&color=00d9ff&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/ridhoudev?label=Followers&style=for-the-badge&color=00d9ff" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/ridhoudev?label=Stars&style=for-the-badge&color=00d9ff" alt="GitHub Stars" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="img/tokito.gif" width="400" alt="Coding GIF" />
+</div>
+
+---
+
+## 🚀 About Me
+
+```javascript
+const ridho = {
+    name: "Muhammad Ridho",
+    location: "Tangerang, Indonesia",
+    role: "Full Stack Developer Student",
+    currentFocus: "Laravel & Modern Web Development",
+    interests: ["Web Development", "Mobile Apps", "UI/UX Design"],
+    funFact: "I love exploring new technologies with a good cup of coffee ☕"
+};
+```
+
+- 🌱 Currently learning and deepening my skills in **Laravel & Spring Boot**
+- 👯 Looking to collaborate on **interesting web development projects**
+- 💬 Ask me about **PHP, JavaScript, or anything related to web development**
+- 📫 Reach me at: **muhammadridhouu@gmail.com**
+- ⚡ Fun fact: **I love exploring new technologies and enjoy coding with coffee!**
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Backend Development
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=php,laravel,java,spring,cs,dotnet,mysql" alt="Backend Skills" />
+</div>
+
+### 🎨 Frontend Development
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,tailwind,bootstrap" alt="Frontend Skills" />
+</div>
+
+### 🛠️ Tools & Technologies
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,figma,postman,vscode" alt="Tools" />
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+  <a href="https://instagram.com/dho._21" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  </p>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:muhammadridhouu@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
 
 ---
 
-### 👨‍💻 About Me:
-- 🌱 I’m currently learning and deepening my skills in **Laravel**.
-- 👯 I’m looking to collaborate on **interesting web development projects**.
-- 💬 Ask me about **PHP, JavaScript, or anything related to web development**.
-- 📫 How to reach me: **muhammadridhouu@gmail.com**
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love exploring new technologies and enjoy a good cup of coffee while coding!
-
----
-<img src="img/tokito.gif">
-
----
-
-### CONNECT WITH ME:
-<p align="left">
-  <a href="https://instagram.com/dho._21" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram dho._21" height="40" width="40" /></a>
-  <a href="#" target="_blank" rel="noopener noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="Instagram dho._21" height="40" width="40" /></a>
-  </p>
-
----
-
-### 🛠️ LANGUAGES AND TOOLS:
-<p align="center">
-  <table border="0" style="border-collapse: collapse; border: none;">
-    <tbody>
-      <tr>
-        <td align="center" style="padding: 5px; border: none;"><a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="50" height="50"/> </a></td>
-        <td align="center" style="padding: 5px; border: none;"><a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/353985/laravel.svg" alt="laravel" width="50" height="50"/> </a></td>
-        <td align="center" style="padding: 5px; border: none;"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> </a></td>
-        <td align="center" style="padding: 5px; border: none;"><a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="50" height="50"/> </a></td>
-        <td align="center" style="padding: 5px; border: none;"><a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="50" height="50"/> </a></td>
-        <td align="center" style="padding: 5px; border: none;"><a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="50" height="50"/> </a></td>
-      </tr>
-      <tr>
-        <td align="center" style="padding: 5px; border: none;"><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> </a></td>
-        <td align="center" style="padding: 5px; border: none;"><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/> </a></td>
-        <td align="center" style="padding: 5px; border: none;"><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> </a></td>
-        <td align="center" style="padding: 5px; border: none;"><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/374118/tailwind.svg" alt="tailwind" width="50" height="50"/> </a></td>
-        <td align="center" style="padding: 5px; border: none;"><a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" alt="bootstrap" width="50" height="50"/> </a></td>
-        <td align="center" style="padding: 5px; border: none;"><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> </a></td>
-      </tr>
-      <tr>
-        <td align="center" style="padding: 5px; border: none;"><a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="50" height="50"/> </a></td>
-        <td align="center" style="padding: 5px; border: none;"><a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50"/> </a></td>
-        <td align="center" style="padding: 5px; border: none;"><a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="50" height="50"/> </a></td>
-        <td align="center" style="padding: 5px; border: none;"><a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/> </a></td>
-        <td align="center" style="padding: 5px; border: none;"><a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react native" width="50" height="50"/> </a></td>
-        <td align="center" style="padding: 5px; border: none;"><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50"/> </a></td>
-      </tr>
-    </tbody>
-  </table>
-</p>
+## 📊 GitHub Analytics
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ridhoudev/ridhoudev/output/dist/pacman-contribution-graph-dark.svg">
-    <img alt="github contribution pacman animation" src="https://raw.githubusercontent.com/ridhoudev/ridhoudev/output/dist/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ridhoudev/ridhoudev/output/dist/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ridhoudev/ridhoudev/output/dist/pacman-contribution-graph.svg">
+    <img alt="GitHub Contribution Pacman Animation" src="https://raw.githubusercontent.com/ridhoudev/ridhoudev/output/dist/pacman-contribution-graph-dark.svg">
   </picture>
 </div>
 
-### 📊 GITHUB STATS:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ridhoudev&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ridhoudev top languages" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ridhoudev&show_icons=true&locale=en&theme=tokyonight" alt="ridhoudev github stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ridhoudev&theme=tokyonight" alt="ridhoudev github streak" />
-</p>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ridhoudev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ridhoudev&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ridhoudev&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+</div>
 
 ---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ridhoudev&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
+</div>
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ridhoudev&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+</div>
+
+<div align="center">
+  <h3>💭 "Code is like humor. When you have to explain it, it's bad." – Cory House</h3>
+</div>
+
+---
+
+<div align="center">
+  <p>Made with ❤️ by Muhammad Ridho</p>
+  <p>
+    <img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg?style=for-the-badge" alt="Ask me anything" />
+  </p>
+</div>
