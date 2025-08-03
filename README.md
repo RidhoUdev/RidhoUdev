@@ -6,8 +6,6 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=ridhoudev&label=Profile%20Views&color=40A2E3&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/ridhoudev?label=Followers&style=for-the-badge&color=40A2E3" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/ridhoudev?label=Stars&style=for-the-badge&color=40A2E3" alt="GitHub Stars" />
 </div>
 
 <br/>
