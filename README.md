@@ -51,7 +51,7 @@ const aboutMe = {
 
 ### 🛠️ Tools & Technologies
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,figma,postman,vscode" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,figma,postman,vscode,idea,androidstudio,docker,bash" alt="Tools" />
 </div>
 
 ---
