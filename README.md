@@ -41,7 +41,7 @@ const aboutMe = {
 
 ### 💻 Backend Development
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=php,laravel,java,spring,express,postgres,mongo,mysql" alt="Backend Skills" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,java,spring,nodejs,express,postgres,mongo,mysql" alt="Backend Skills" />
 </div>
 
 ### 🎨 Frontend Development
